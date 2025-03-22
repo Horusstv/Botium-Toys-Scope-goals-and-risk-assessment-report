@@ -54,4 +54,23 @@ The potential impact from the loss of an asset is rated as medium, because the I
 - While legacy systems are monitored and maintained, there is no regular schedule in place for these tasks and intervention methods are unclear.
 - The store’s physical location, which includes Botium Toys’ main offices, store front, and warehouse of products, has sufficient locks, up-to-date closed-circuit television (CCTV) surveillance, as well as functioning fire detection and prevention systems.
 
+## Controls and Compliance Checklist
 
+![control assessment](https://i.imgur.com/J9N0uVJ.png)
+
+![controls2](https://imgur.com/ef94ZiJ.png)
+
+![control3](https://imgur.com/rEUwvMy.png)
+
+![contrl4](https://imgur.com/5EQioI6.png)
+
+## Final Recommendations
+
+- Implement a password security policy that complies with the minimum complexity for a password to be secure (eight characters, letters and numbers, special characters).
+- Perform separation of duties to minimize risks.
+- Install an IDS
+- Install a backup system at least for critical data.
+- Create a schedule to perform maintenance and monitoring of legacy systems.
+- Set an encryption system to manage all the data in the company specially for the credit card information and or payment information from the customers.
+- Implement a password management system that requires employees to change the password and or verifies that the password set complies with minimum requirements.
+- Correctly classify all the company data.
